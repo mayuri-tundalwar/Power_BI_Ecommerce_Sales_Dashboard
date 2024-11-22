@@ -50,8 +50,8 @@ The main goal of this project was to provide actionable insights into sales perf
 - **Time Series Trends**:  
   Monthly profit analysis to identify peak and low-performing months.
 
-# Key Insights
-💡 Insights Gained
+#💡 Key Insights
+
 1. **Top-performing states**: Maharashtra leads in sales contribution.
 2. **Payment Mode**: Cash on Delivery (COD) is the most preferred payment method.
 3. **Product Category**: Clothing accounts for the majority of sales, followed by Electronics.
