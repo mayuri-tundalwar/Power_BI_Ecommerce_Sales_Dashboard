@@ -1,8 +1,8 @@
 # Power_BI_Ecommerce(KRUSHNAI)_Sales_Dashboard 🎯
 
 This repository showcases a comprehensive **Power BI project** aimed at analyzing sales data for the **Krushnai E-Commerce platform**. The project demonstrates the use of various tools and techniques, including **Power BI**, **MySQL**, **Advanced Excel**, and **Microsoft Word**, to process, analyze, and visualize data effectively.
-![1(Select All)](https://github.com/user-attachments/assets/2a85c345-6557-4dfa-9f7a-1e6c97a017fe)
 
+![1(Select All)](https://github.com/user-attachments/assets/2a85c345-6557-4dfa-9f7a-1e6c97a017fe)
 
 ## Project Overview 📊
 
